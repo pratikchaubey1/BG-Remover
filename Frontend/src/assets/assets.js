@@ -40,15 +40,15 @@ export const testimonialsData = [
     {
         id: 1,
         text: "I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.",
-        author: "Richard Nelson",
+        author: "Aayushi",
         image: profile_img_1,
         jobTitle:'Web Developer'
     },
     {
         id: 2,
         text: "I've been using bg.removal for nearly 6 months, I had a fantastic experience. The quality is top-notch. I recommend others to try this app.",
-        author: "Donald Jackman",
-        image: profile_img_2,
+        author: "Amrita",
+        image: "https://i.pinimg.com/736x/65/37/c3/6537c313f0fc78733167bab2b85afe5e.jpg",
         jobTitle:'UI Deginer'
     },
 ];
